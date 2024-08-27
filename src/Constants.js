@@ -2,10 +2,12 @@ import DROPSHIP from "./Assets/Projects/dropship.png";
 import JOB from "./Assets/Projects/job.png";
 import COSMOS from "./Assets/Projects/cosmos.png";
 import TRAVELWELL from "./Assets/Projects/travelwell.png";
+import SONAPP from "./Assets/Projects/sonApp.png";
 
 
 export const PROJECTS = [
   {
+    
     image: COSMOS,
     name: "online Service Request Mng System in IES",
     technologyUsed: "PHP, Javascript,HTML,CSS,bootstrap",
