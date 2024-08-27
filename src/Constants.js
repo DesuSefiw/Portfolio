@@ -37,6 +37,13 @@ export const PROJECTS = [
     description: "It is customized Some  Seals Website which fetch order from store and give option to customize product and send detail to store owner. Also maintain tracking etc of product. with its approved letter",
     url: "",
   },
+   {
+    image: SONAPP,
+    name: "SongApp For Addis Software",
+    technologyUsed: " Typescript, node.js,Docker,Mongoodb,...",
+    description: "Develop a Rest API that will let you manage information for songs. Your API will be able to create, list, update and remove songs. You will only need to create one model to handle the song data. The expected information are ,Title ,Artist, Album ,Genre And  also expected to generate overall statistics:Total # of songs, artists, albums, genres # of songs in every genre # of songs & albums each artist has # songs in each album ... and so on.",
+    url: "https://mern-stack-to-addissoftware.vercel.app/",
+  },
   
 ];
 
