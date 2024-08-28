@@ -1,11 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/lov.png";
-//import img from "../../Assets/2.jpg";
 import SocialMedia from "../SocialMedia";
 import TypeWriter from "./TypeWriter";
-import { AiOutlineFontSize } from "react-icons/ai";
-import { FaLightbulb } from "react-icons/fa";
 
 function Home() {
   return (
