@@ -3,6 +3,7 @@ import JOB from "./Assets/Projects/job.png";
 import COSMOS from "./Assets/Projects/cosmos.png";
 import TRAVELWELL from "./Assets/Projects/travelwell.png";
 import SONAPP from "./Assets/Projects/sonApp.png";
+import HOTEL from "./Assets/Projects/hotel.jpg";
 
 
 export const PROJECTS = [
@@ -46,7 +47,13 @@ export const PROJECTS = [
     description: "Develop a Rest API that will let you manage information for songs. Your API will be able to create, list, update and remove songs. You will only need to create one model to handle the song data. The expected information are ,Title ,Artist, Album ,Genre And  also expected to generate overall statistics:Total # of songs, artists, albums, genres # of songs in every genre # of songs & albums each artist has # songs in each album ... and so on.",
     url: "https://mern-stack-to-addissoftware.vercel.app/",
   },
-  
+   {
+    image: HOTEL,
+    name: "Better Hotel Service",
+    technologyUsed: " React, node.js,RESTAPI,Mongoodb,...",
+    description: "We connect hotels with expert guidance, training, and resources to thrive in the industry. Expert partnerships with hospitality professionals,Quality assurance to enhance guest satisfaction,Comprehensive support for hotel success",
+    url: "https://better-hotel-service.vercel.app/",
+  },
 ];
 
 export const SKILLS = [
