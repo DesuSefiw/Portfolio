@@ -4,6 +4,7 @@ import COSMOS from "./Assets/Projects/cosmos.png";
 import TRAVELWELL from "./Assets/Projects/travelwell.png";
 import SONAPP from "./Assets/Projects/sonApp.png";
 import HOTEL from "./Assets/Projects/hotel.jpg";
+import FINCHA from "./Assets/Projects/fincha.png";
 
 
 export const PROJECTS = [
@@ -53,6 +54,13 @@ export const PROJECTS = [
     technologyUsed: " React, node.js,RESTAPI,Mongoodb,...",
     description: "We connect hotels with expert guidance, training, and resources to thrive in the industry. Expert partnerships with hospitality professionals,Quality assurance to enhance guest satisfaction,Comprehensive support for hotel success",
     url: "https://better-hotel-service.vercel.app/",
+  },
+   {
+    image: FINCHA,
+    name: "Fincha Valliy Real Estat ",
+    technologyUsed: " Next.js,REST API,Mongoodb",
+    description: "To create job opportunities for 30,000 youth and women citizens, while empowering communities through cooperation, unity, and sustainable real estate solutions.Comprehensive real estate and business solutions tailored for our community",
+    url: "https://fincha-real-estate.vercel.app/",
   },
 ];
 
